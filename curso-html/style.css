@@ -1,0 +1,63 @@
+body{
+    background-color: lightcyan;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 900px;
+    margin: auto;
+}
+
+a{
+    text-decoration: wavy;
+}
+
+.superior_header{
+    justify-content: center;
+    margin: auto;
+    justify-items: center;
+    align-items: auto;
+}
+
+.photo{
+    border: 3px solid lightcoral;
+    border-radius: 50%;
+}
+
+#title, .subtitle, .post_title{
+    color: darkorchid;
+    text-align: center
+}
+
+#title{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.post_title{
+    color: lightyellow;
+    font-size: 16px;
+    font-style: italic;
+    margin: 0 0 15px 0;
+}
+
+.post{
+    background: rgb(141, 98, 141);
+    padding: 15px;
+    border: 3px solid whitesmoke;
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
+
+.post_content{
+    margin: 0 0 15px 0;
+    text-transform: capitalize ;
+    text-align: justify;
+}
+
+.post_image{
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.contact_list{
+    list-style-type: none;
+    padding: 0 0 0 3px;
+}
