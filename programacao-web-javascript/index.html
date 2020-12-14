@@ -5,7 +5,14 @@
         <meta charset="utf-8">
         <script type ="text/JavaScript" src="./js/main.js"></script>
     </head>
-    <body>
-        <h1>Minha Página </h1>
+    <body onload="load()">
+        <button type="button" onclick="botao()"> Clique Aqui!</button>
+        <h3 id="agradecimento" onclick="redirecionar()"></h3>
+        <p>Passe o mouse <a  onmouseout="voltar(this)" onmouseover="trocar(this)">aqui</a>!</p>
+        <select onchange="funcaoChange(this)">
+            <option value="1">Valor 1</option>
+            <option value="2">Valor 2</option>
+            <option value="3">Valor 3</option>
+        </select>
     </body>
 </html>
