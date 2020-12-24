@@ -2,7 +2,6 @@
 Aqui está o repositório de certos códigos de cursos, durante todo o BootCamp Avanade 2020.
 
 ### Conteúdo:
-<ul>
   - Boas-vindas ao Decola Dev Avanade 2021; :heavy_check_mark:
   - Bem-vindo à DIO; :heavy_check_mark:
   - Lógica de programação essencial; :heavy_check_mark:
@@ -27,4 +26,3 @@ Aqui está o repositório de certos códigos de cursos, durante todo o BootCamp 
   - Solução de Problemas Essenciais com C#;
   - Projetos ágeis com SCRUM;
   - Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding. :checkered_flag:
-</ul>
