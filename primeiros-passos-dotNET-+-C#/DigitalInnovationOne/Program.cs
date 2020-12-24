@@ -1,4 +1,5 @@
 ﻿using System;
+using DigitalInnovationOne.exemplos;
 
 namespace DigitalInnovationOne
 {
@@ -6,11 +7,15 @@ namespace DigitalInnovationOne
     {
         static void Main(string[] args)
         {
-            int numeroDeVezes = 10;
-            for(int i = 0; i < numeroDeVezes; i++)
-            {
-                Console.WriteLine($"Bem vindo ao curso de .NET {i}");
-            }
+            var s = new Pilha();
+            s.Empilha(1);
+            s.Empilha(10);
+            s.Empilha(100);
+            Console.WriteLine(s);
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
         }
     }
 }
