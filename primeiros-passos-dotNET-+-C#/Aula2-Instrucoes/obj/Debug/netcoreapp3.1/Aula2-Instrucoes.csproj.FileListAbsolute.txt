@@ -1,0 +1,13 @@
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula2-Instrucoes\bin\Debug\netcoreapp3.1\Aula2-Instrucoes.exe
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula2-Instrucoes\bin\Debug\netcoreapp3.1\Aula2-Instrucoes.deps.json
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula2-Instrucoes\bin\Debug\netcoreapp3.1\Aula2-Instrucoes.runtimeconfig.json
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula2-Instrucoes\bin\Debug\netcoreapp3.1\Aula2-Instrucoes.runtimeconfig.dev.json
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula2-Instrucoes\bin\Debug\netcoreapp3.1\Aula2-Instrucoes.dll
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula2-Instrucoes\bin\Debug\netcoreapp3.1\Aula2-Instrucoes.pdb
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula2-Instrucoes\obj\Debug\netcoreapp3.1\Aula2-Instrucoes.csprojAssemblyReference.cache
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula2-Instrucoes\obj\Debug\netcoreapp3.1\Aula2-Instrucoes.AssemblyInfoInputs.cache
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula2-Instrucoes\obj\Debug\netcoreapp3.1\Aula2-Instrucoes.AssemblyInfo.cs
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula2-Instrucoes\obj\Debug\netcoreapp3.1\Aula2-Instrucoes.csproj.CoreCompileInputs.cache
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula2-Instrucoes\obj\Debug\netcoreapp3.1\Aula2-Instrucoes.dll
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula2-Instrucoes\obj\Debug\netcoreapp3.1\Aula2-Instrucoes.pdb
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula2-Instrucoes\obj\Debug\netcoreapp3.1\Aula2-Instrucoes.genruntimeconfig.cache
