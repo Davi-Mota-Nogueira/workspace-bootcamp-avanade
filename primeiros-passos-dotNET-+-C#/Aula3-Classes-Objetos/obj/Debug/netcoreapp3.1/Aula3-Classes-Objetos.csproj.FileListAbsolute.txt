@@ -1,0 +1,13 @@
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula3-Classes-Objetos\bin\Debug\netcoreapp3.1\Aula3-Classes-Objetos.exe
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula3-Classes-Objetos\bin\Debug\netcoreapp3.1\Aula3-Classes-Objetos.deps.json
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula3-Classes-Objetos\bin\Debug\netcoreapp3.1\Aula3-Classes-Objetos.runtimeconfig.json
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula3-Classes-Objetos\bin\Debug\netcoreapp3.1\Aula3-Classes-Objetos.runtimeconfig.dev.json
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula3-Classes-Objetos\bin\Debug\netcoreapp3.1\Aula3-Classes-Objetos.dll
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula3-Classes-Objetos\bin\Debug\netcoreapp3.1\Aula3-Classes-Objetos.pdb
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula3-Classes-Objetos\obj\Debug\netcoreapp3.1\Aula3-Classes-Objetos.csprojAssemblyReference.cache
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula3-Classes-Objetos\obj\Debug\netcoreapp3.1\Aula3-Classes-Objetos.AssemblyInfoInputs.cache
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula3-Classes-Objetos\obj\Debug\netcoreapp3.1\Aula3-Classes-Objetos.AssemblyInfo.cs
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula3-Classes-Objetos\obj\Debug\netcoreapp3.1\Aula3-Classes-Objetos.csproj.CoreCompileInputs.cache
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula3-Classes-Objetos\obj\Debug\netcoreapp3.1\Aula3-Classes-Objetos.dll
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula3-Classes-Objetos\obj\Debug\netcoreapp3.1\Aula3-Classes-Objetos.pdb
+C:\workspace\primeiros-passos-dotNET-+-C#\Aula3-Classes-Objetos\obj\Debug\netcoreapp3.1\Aula3-Classes-Objetos.genruntimeconfig.cache
