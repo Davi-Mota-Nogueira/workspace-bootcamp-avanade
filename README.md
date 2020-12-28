@@ -13,8 +13,8 @@ Aqui está o repositório de certos códigos de cursos, durante todo o BootCamp 
   - JavaScript ES6 essencial; :heavy_check_mark:
   - Fundamentos de Arquitetura de Sistemas; :heavy_check_mark:
   - Conceitos de responsividade e experiência do usuário; :heavy_check_mark:
-  - Primeiros passos com .NET + C#; :memo:
-  - Introdução a Programação com C#;
+  - Primeiros passos com .NET + C#; :heavy_check_mark:
+  - Introdução a Programação com C#; :memo:
   - Orientação a objetos em .NET;
   - Desenvolvimento de aplicações com .NET;
   - Desenvolvendo sua aplicação com C# usando DDD;
