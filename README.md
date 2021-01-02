@@ -14,10 +14,10 @@ Aqui está o repositório de certos códigos de cursos, durante todo o BootCamp 
   - Fundamentos de Arquitetura de Sistemas; :heavy_check_mark:
   - Conceitos de responsividade e experiência do usuário; :heavy_check_mark:
   - Primeiros passos com .NET + C#; :heavy_check_mark:
-  - Introdução a Programação com C#; :memo:
-  - Orientação a objetos em .NET;
-  - Desenvolvimento de aplicações com .NET;
-  - Desenvolvendo sua aplicação com C# usando DDD;
+  - Introdução a Programação com C#; :heavy_check_mark:
+  - Orientação a objetos em .NET; :heavy_check_mark:
+  - Desenvolvimento de aplicações com .NET; :heavy_check_mark:
+  - Desenvolvendo sua aplicação com C# usando DDD; :memo:
   - Resolvendo Algoritmos;
   - Conceitos e melhores práticas com bancos de dados PostgreSQL;
   - Arquitetura de Sistemas Avançado;
