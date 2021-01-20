@@ -17,9 +17,9 @@ Aqui está o repositório de certos códigos de cursos, durante todo o BootCamp 
   - Introdução a Programação com C#; :heavy_check_mark:
   - Orientação a objetos em .NET; :heavy_check_mark:
   - Desenvolvimento de aplicações com .NET; :heavy_check_mark:
-  - Desenvolvendo sua aplicação com C# usando DDD; :memo:
-  - Resolvendo Algoritmos;
-  - Conceitos e melhores práticas com bancos de dados PostgreSQL;
+  - Desenvolvendo sua aplicação com C# usando DDD; :heavy_check_mark:
+  - Resolvendo Algoritmos; :heavy_check_mark:
+  - Conceitos e melhores práticas com bancos de dados PostgreSQL; :memo:
   - Arquitetura de Sistemas Avançado;
   - Configuração da arquitetura back-end com .NET Core;
   - Aplicando design patterns na prática com C#;
