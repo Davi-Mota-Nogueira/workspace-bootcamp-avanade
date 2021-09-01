@@ -6,7 +6,7 @@ Aqui está o repositório de certos códigos de cursos, durante todo o BootCamp 
   - Bem-vindo à DIO; :heavy_check_mark:
   - Lógica de programação essencial; :heavy_check_mark:
   - Aprenda o que são Estrutura de Dados e Algoritmos; :heavy_check_mark:
-  - <a href = ".livro-receitas/">Introdução ao Git e ao GitHub</a>; :heavy_check_mark:
+  - <a href = ".workspace-bootcamp-avanade/livro-receitas/">Introdução ao Git e ao GitHub</a>; :heavy_check_mark:
   - Introdução a criação de websites com HTML5 e CSS3; :heavy_check_mark:
   - Recriando a página inicial do Instagram; :heavy_check_mark:
   - Programação para internet com JavaScript; :heavy_check_mark:
